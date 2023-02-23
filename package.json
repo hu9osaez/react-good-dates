@@ -1,20 +1,20 @@
 {
-  "name": "react-nice-dates",
+  "name": "react-good-dates",
   "version": "3.1.0",
   "main": "build/index.js",
   "module": "build/index.esm.js",
   "unpkg": "build/index.umd.js",
-  "author": "Hernán Sartorio",
+  "author": "Hernán Sartorio, Hugo Sáez",
   "license": "MIT",
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hernansartorio/react-nice-dates.git"
+    "url": "git+https://github.com/hu9osaez/react-good-dates.git"
   },
   "bugs": {
-    "url": "https://github.com/hernansartorio/react-nice-dates/issues"
+    "url": "https://github.com/hu9osaez/react-good-dates/issues"
   },
-  "homepage": "https://github.com/hernansartorio/react-nice-dates#readme",
+  "homepage": "https://github.com/hu9osaez/react-good-dates#readme",
   "files": [
     "build",
     "src/style.scss",
